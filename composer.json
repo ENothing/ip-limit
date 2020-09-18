@@ -1,0 +1,17 @@
+{
+  "name": "enothing/ip-limit",
+  "description": "Make A Ip WhiteList To Limit Access",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "EricNothing",
+      "email": "814583328@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ENothing\\IpLimit\\": "src"
+    }
+  },
+  "require": {}
+}
